@@ -1,5 +1,6 @@
 {
     "name": "ayiu/source-han-sans-hk-regular",
+    "version": "0.1.0",
     "description": "Font",
     "type": "library",
     "license": "OFL-1.1",
